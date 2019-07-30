@@ -68,7 +68,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.indigo.mesosprobe.ProbeThread</mainClass>
+                            <mainClass>com.deep.qcgprobe.QCGThread</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
